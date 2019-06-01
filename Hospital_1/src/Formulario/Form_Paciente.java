@@ -74,7 +74,7 @@ public class Form_Paciente extends javax.swing.JFrame {
         jLabel8 = new javax.swing.JLabel();
         btnSalir = new javax.swing.JButton();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setBackground(new java.awt.Color(0, 0, 153));
 
         jPanel1.setBackground(new java.awt.Color(0, 0, 255));
